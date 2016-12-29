@@ -1,0 +1,29 @@
+To run the code follow the given instructions:
+Setting A
+1(a) - Program 1a.py
+       Run 1a.sh on cmd
+1(b) - Program 1b.py
+	   Run 1b.sh on cmd
+1(c) - Program 1c.py
+	   Run 1c.sh on cmd
+2(a) - Program 2a.py
+	   Run 2a.sh
+	   
+Setting B
+1(a) - Program 1a.py
+       Run 1a.sh on cmd
+1(b) - Program 1b.py
+	   Run 1b.sh on cmd
+1(c) - Program 1c.py
+	   Run 1c.sh on cmd
+1(d) - Program 1d.py
+	   Run 1d.sh on cmd
+2(a) - Program 2a.py
+	   Run 2a.sh
+	   
+Setting C
+
+2 - Program 2.py
+	   Run 2.sh
+
+
